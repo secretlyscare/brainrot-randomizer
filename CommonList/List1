@@ -12,5 +12,5 @@ return {
 	"Buy",
 	"Adopt",
 	"Drink",
-	"Secure",
+	"Secure"
 }
