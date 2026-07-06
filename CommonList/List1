@@ -1,0 +1,16 @@
+return {
+	"Steal",
+	"Grow",
+	"Craft",
+	"Build",
+	"Make",
+	"Destroy",
+	"Neutralize",
+	"Expose",
+	"Consume",
+	"Kill",
+	"Buy",
+	"Adopt",
+	"Drink",
+	"Secure",
+}
